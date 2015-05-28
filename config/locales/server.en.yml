@@ -117,18 +117,18 @@ en:
 
   embed:
     start_discussion: "Add Comment"
-    continue: "Continue Discussion"
+    continue: "Add Comment"
     more_replies:
-      one: "1 more reply"
-      other: "%{count} more replies"
+      one: "1 more comment"
+      other: "%{count} more comments"
 
     loading: "Loading Discussion..."
     permalink: "Permalink"
     imported_from: "This is a companion discussion topic for the original entry at %{link}"
     in_reply_to: "▶ %{username}"
     replies:
-      one: "1 reply"
-      other: "%{count} replies"
+      one: "1 comment"
+      other: "%{count} comments"
 
   too_many_mentions:
     zero: "Sorry, you can't mention other users."
